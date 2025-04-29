@@ -69,3 +69,5 @@ program akan menampilkan saham dan SNB yang dimiliki user, nilai pasar dari saha
 Ini merupakan tampilan menu jika user memilih untuk logout, setelah user logout user akan dikembalikan
 pada menu pilihan pertama dan user bisa kembali membuat akun, login, ataupun exit.
 Jika user memilih untuk exit maka program akan berhenti beroprasi
+
+(image/UML Investasi.drawio.png)
