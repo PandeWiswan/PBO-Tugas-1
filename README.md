@@ -4,7 +4,7 @@ Pembuatan Program Investasi Sederhana Berbasis Command Line
 ![MenuPertama.png](MenuPertama.png)
 
 Diawal user menggunakan program investasi ini akan memunculkan menu yang memiliki pilihan
-login, registrasi (untuk membuat akun), dan exit
+login, registrasi (untuk membuat akun user), dan exit
 
 ![gagalLogin.png](image/gagalLogin.png)
 
