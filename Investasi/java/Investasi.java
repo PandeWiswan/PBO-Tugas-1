@@ -17,7 +17,7 @@ public class Investasi {
         daftarSBN.add(new SuratBerhargaNegara("SBN1", 5.0, 12, "2026-12-31", 1000000));
 
         while (true) {
-            System.out.println("\n=== Menu Awal ===");
+            System.out.println("\n==== Menu Awal ====");
             System.out.println("1. Login");
             System.out.println("2. Register (Customer)");
             System.out.println("3. Exit");
