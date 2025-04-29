@@ -1,7 +1,7 @@
 # PBO-Tugas-1
 Pembuatan Program Investasi Sederhana Berbasis Command Line
 
-![MenuPertama.png](MenuPertama.png)
+![MenuPertama.png](image/MenuPertama.png)
 
 Diawal user menggunakan program investasi ini akan memunculkan menu yang memiliki pilihan
 login, registrasi (untuk membuat akun user), dan exit
@@ -30,26 +30,26 @@ Pada menu ini user akan diminta untuk memilih saham apa yang akan dibeli lalu se
 saham pada pilihan user akan dimita berapa banyak lembar saham yang nantinya akan dibeli
 tanpa terjadi eror atau invalid dalam melakukan pembelian saham
 
-![invalidBeliSaham.png](invalidBeliSaham.png)
+![invalidBeliSaham.png](image/invalidBeliSaham.png)
 
 Pada tampilan ini merupakan ketika user invalid atau salah dalam pembelian saham. Yang dimana
 user yang seharusnya input sesua dengan pilihan malah memilih yang tidak ada di dalam pilihan
 menu, kemudian program akan meminta user untuk input sesuai dengan apa yang diminta pada program
 sampai sesuai dengan apa yang tertera pada program atau sampai valid dalam pembelian saham
 
-![JualSaham.png](JualSaham.png)
+![JualSaham.png](image/JualSaham.png)
 
 User pun bisa melakukan penjualan saham, menu ini merupakan menu penjualan saham yang dapat dijual oleh
 user. Program pun menampilkan saham apa saja yang dapat dipilih dan dijual, user tidak bisa menjual saham
 yang tidak dimiliki dan menjual lebih dari yang dimiliki oleh user
 
-![BeliSBN.png](BeliSBN.png)
+![BeliSBN.png](image/BeliSBN.png)
 
 Jika user memilih pilihan 3 atau beli SBN, user akan diminta untuk memilih SBN apa yang akan 
 dibeli lengkap dengan bunganya lalu setelah memilih SBN pada pilihan user akan dimita berapa 
 banyak nominal SBN yang nantinya akan dibeli tanpa terjadi eror atau invalid dalam melakukan pembelian SBN
 
-![InvalidSBN.png](InvalidSBN.png)
+![InvalidSBN.png](image/InvalidSBN.png)
 
 Sama seperti kasus validasi sebelumnya jika user membeli yang bukan atau tidak ada yang ada pada pilihan
 maka user akan diminta lagi untuk input pilihan sampai pilihan user ada atau benar
