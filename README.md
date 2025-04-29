@@ -70,4 +70,5 @@ Ini merupakan tampilan menu jika user memilih untuk logout, setelah user logout 
 pada menu pilihan pertama dan user bisa kembali membuat akun, login, ataupun exit.
 Jika user memilih untuk exit maka program akan berhenti beroprasi
 
-(image/UML Investasi.drawio.png)
+![UML Investasi drawio](https://github.com/user-attachments/assets/9fa5bdc4-c246-4b50-9734-3d18da1dc09a)
+
