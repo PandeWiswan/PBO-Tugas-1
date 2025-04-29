@@ -1,3 +1,5 @@
+package Investasi.java;
+
 import java.util.*;
 
 public class Investasi {

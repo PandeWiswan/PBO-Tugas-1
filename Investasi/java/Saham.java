@@ -1,3 +1,5 @@
+package Investasi.java;
+
 public class Saham {
     String kode;
     String namaPerusahaan;

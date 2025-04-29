@@ -1,3 +1,5 @@
+package Investasi.java;
+
 public class SuratBerhargaNegara {
     String nama;
     double bunga;

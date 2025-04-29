@@ -1,5 +1,5 @@
 # PBO-Tugas-1
-Pembuatan Program Investasi Sederhana Berbasis Command Line
+Pembuatan Program Investasi.java.Investasi Sederhana Berbasis Command Line
 
 ![MenuPertama.png](image/MenuPertama.png)
 
